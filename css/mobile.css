@@ -1,0 +1,93 @@
+@media(max-width: 991px)
+{
+	.t-footer{
+		width: 100%;
+	}
+	.lhe{
+		width: 50%;
+	}
+	.lastnews{
+		width: 50%;
+	}
+	.topdes{
+		width: 100%;
+	}
+	.popular_tour_package{
+		font-size: 25px;
+	}
+	.des_title{
+		width: 80%;
+	}
+	.des_title h3{
+		font-size: 25px;
+	}
+	.trending_text h1{
+		font-size: 25px;
+	}
+	.trending_text{
+		width: 80%;
+	}
+	.tieu_de h1{
+		font-size: 25px;
+	}
+	.video_text b{
+		font-size: 20px;
+	}
+	.input i{
+	padding-left: 15px;
+}
+	.tour_list_item{
+		width: 45%;
+	}
+	 .trending_item{
+	 	width: 45%;
+	 }
+
+}
+@media(max-width: 575px){
+	.banner{
+	padding-top: 5%;
+	padding-bottom: 7%;
+	color: #fff;
+	font-size: 14px;
+}
+.banner h1{
+	padding-bottom: 10px;
+	font-size: 20px;
+}
+.banner input{
+	padding: 5px 20px;
+	margin-top: 10px;
+}
+.input{
+	width: 40%;
+}
+.sub{
+	width: 40%;
+}
+.tour_list_item{
+	width: 70%;
+}
+.trending_item{
+	width: 70%;
+}
+.item_img_text{
+	padding-top: 10px;
+}
+.destination{
+	display: none;
+}
+.mb_slide{
+	display: block;
+}
+.video_text{
+	font-size: 14px;
+}
+.video_text h4,b{
+	font-size: 16px;
+}
+.video_text button{
+  width: 150px;
+  height: 35px;
+}
+}
